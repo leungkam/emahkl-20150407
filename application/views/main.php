@@ -67,8 +67,6 @@
             </div>
             <!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat -->
 
-            <!-- InstanceBeginEditable name="EditRegion1" -->
-
             <div class="heading">EM 簡介</div>
             <div class="welcome">
                 <p>&nbsp;</p>
